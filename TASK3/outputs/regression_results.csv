@@ -1,0 +1,4 @@
+Model,R2 Score,Zero Coefficients
+Linear Regression,-0.009531526322608563,0
+Ridge,-0.009395382915895256,0
+Lasso,-0.050202330161579045,8
